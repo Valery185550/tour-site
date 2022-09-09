@@ -1,0 +1,58 @@
+.bcgd{
+    width: 100%;
+    height: 100%;
+    background: url("../../img/contacts.jpg");
+}
+
+.bcgd .map{
+    width: 500px;
+    height: 400px;
+    margin-top: 30px;
+    margin-left: 220px;
+    border-radius: 5px;
+}
+
+.bcgd pre{
+    font-family: 'Gabriela', serif;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 1.5;
+    margin: 0;
+    color: white;
+    text-shadow: 0 0 10px rgba(0,0,0,0.7);
+    padding-left: 250px;
+}
+
+.address{
+    padding-top: 30px;
+
+}
+
+.phone{
+    padding-top: 20px;
+}
+
+a .gmail,.facebook,.instagram{
+    width: 25px;
+    height: 24px;
+}
+
+.refers{
+    position: absolute;
+    right: 0px;
+    top: 105px;
+}
+
+.instagram{
+    padding-right: 10px;
+}
+
+.facebook{
+    padding-right: 10px;
+}
+
+.gmail{
+    padding-right: 40px;
+
+}
+

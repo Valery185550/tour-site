@@ -1,0 +1,20 @@
+.test{
+    background: url("../../img/test.jpg") no-repeat;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.test p{
+    color: white;
+    font-family: 'EB Garamond', serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+.buttonNext{
+    width: 100px;
+    height: 50px;
+    margin: auto;
+
+}

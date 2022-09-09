@@ -1,0 +1,14 @@
+.bcgd{
+    background: url("../../img/reviews.jpeg");
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    overflow: auto;
+    overflow-x: hidden;
+}
+
+.review:nth-child(2n)
+{
+    position: relative;
+    left: 100px;
+}
